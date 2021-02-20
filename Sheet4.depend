@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1613753749 source:g:\data structures\sheets\final rrvision\sol sheet 4\sheet4\queue.c
+	"queue.h"
+	<stdio.h>
+
+1613753058 g:\data structures\sheets\final rrvision\sol sheet 4\sheet4\queue.h
+	"global.h"
+
+1613747526 g:\data structures\sheets\final rrvision\sol sheet 4\sheet4\global.h
+
+1613753106 source:g:\data structures\sheets\final rrvision\sol sheet 4\sheet4\stack.c
+	"stack.h"
+	<stdio.h>
+
+1613752867 g:\data structures\sheets\final rrvision\sol sheet 4\sheet4\stack.h
+	"global.h"
+
+1613753680 source:g:\data structures\sheets\final rrvision\sol sheet 4\sheet4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"global.h"
+	"stack.h"
+	"queue.h"
+
